@@ -29,7 +29,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
   - For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
   - Be sure to create the tables in the correct order to handle the foreign keys.
 
-  2.Import each CSV file into its corresponding SQL table.
+  2. Import each CSV file into its corresponding SQL table.
 
 
 Data Analysis
